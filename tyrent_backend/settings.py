@@ -33,19 +33,11 @@ DEBUG = os.getenv("DEBUG", "True").lower() == "true"
 # ALLOWED HOSTS & CORS (allow everything)
 # --------------------------------------------------
 ALLOWED_HOSTS = [
-    "tyrant-production.up.railway.app",
-    "tyrant-production-f07f.up.railway.app",
-    "peaceful-love-production-34dd.up.railway.app",
-    "capable-patience-production-fa1b.up.railway.app",
-    "tyrant-production-4b70.up.railway.app",
-    "balanced-radiance-production-5285.up.railway.app",
-    "hospitable-serenity-production-ab22.up.railway.app",
-    "tyrant-production-88aa.up.railway.app",
-    "steadfast-happiness-production.up.railway.app",
-    "peaceful-luck-production-a734.up.railway.app",
-    "just-light-production-ba00.up.railway.app",
     "tyrant-production-f947.up.railway.app",
-    "heartfelt-delight-production-5095.up.railway.app"
+    "heartfelt-delight-production-5095.up.railway.app",
+    "tyrant-estate.up.railway.app",
+    "devoted-love-production-1853.up.railway.app",
+    "welcoming-simplicity-production-c240.up.railway.app",
     "www.tyrenthomes.com",
     "tyrenthomes.com",
     "localhost:3000",
